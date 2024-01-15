@@ -1,7 +1,7 @@
 <div align="center">
 
 # Howdy 👋
-  <h3>Sebastian Cabrera - Miami, FL - UTC-4 - <a class="link" href="https://okseby.com/">seby.dev</a>
+  <h3>Sebastian Cabrera - Miami, FL - UTC-4 - <a class="link" href="https://seby.dev/">seby.dev</a>
   
   <br>
     
